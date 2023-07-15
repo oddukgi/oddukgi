@@ -7,6 +7,8 @@
 
 - 📱 My goal is making **useful application.**
 
+- 😎 Interest : AI, Front-end, HTML... 
+
 - 📫 How to reach me **sunmik.dev@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
