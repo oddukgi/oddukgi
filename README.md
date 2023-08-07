@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python.**
 
-- 📱 My goal is making **useful application.**
+- 📱 My goal is making **useful application & front-end developer in blockchain company.**
 
 - 😎 Interest : AI, Front-end, HTML... 
 
