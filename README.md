@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning **Python.**
 
-- 📱 My goal is making **useful application & front-end developer in blockchain company.**
-
+- 📱 My goal is **blockchain front-end developer**.
 - 😎 Interest : AI, Front-end, HTML... 
 
 - 📫 How to reach me **sunmik.dev@gmail.com**
