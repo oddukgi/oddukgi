@@ -3,11 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oddukgi&label=Profile%20views&color=0e75b6&style=flat" alt="oddukgi" /> </p>
 
-- 🌱 I’m currently learning **Python.**
-
-- 📱 My goal is **blockchain front-end developer**.
-- 😎 Interest : AI, Front-end, HTML... 
-
 - 📫 How to reach me **sunmik.dev@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
